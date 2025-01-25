@@ -11,6 +11,7 @@
 1. **Gereksinimler**:
  - .NET Framework 4.7.2
  - Visual Studio 2022
+ - SQL Server Management Studio 20.2.30.0
 
 2. **Proje İndirme**:
  ```bash
@@ -20,6 +21,7 @@
 3. **Proje Yapılandırma**:
  - Projeyi açın ve gerekli NuGet paketlerini yükleyin.
  - Çalıştırmak için `FinansalCrm.sln` dosyasını Visual Studio ile açın.
+ - Veritabanı tabloları uygulamanın modellerine göre oluşturulmalıdır.
 
 ## Formlar
 
